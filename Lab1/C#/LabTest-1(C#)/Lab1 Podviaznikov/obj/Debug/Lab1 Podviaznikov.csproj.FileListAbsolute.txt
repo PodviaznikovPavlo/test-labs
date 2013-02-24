@@ -1,0 +1,9 @@
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\bin\Debug\Lab1 Podviaznikov.exe.config
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\obj\Debug\Lab1 Podviaznikov.csprojResolveAssemblyReference.cache
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\obj\Debug\Lab1_Podviaznikov.Form1.resources
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\obj\Debug\Lab1_Podviaznikov.Properties.Resources.resources
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\obj\Debug\Lab1 Podviaznikov.csproj.GenerateResource.Cache
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\bin\Debug\Lab1 Podviaznikov.exe
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\bin\Debug\Lab1 Podviaznikov.pdb
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\obj\Debug\Lab1 Podviaznikov.exe
+D:\Univer\THIRDCOURSE\2Semestr\TestLabs\Lab1 Podviaznikov\Lab1 Podviaznikov\obj\Debug\Lab1 Podviaznikov.pdb
